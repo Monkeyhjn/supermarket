@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/smbms_java_web-master/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smbms_java_web-master/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js/billadd.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js/billlist.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js/billmodify.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js/provideradd.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js/providermodify.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js/pwdmodify.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js/rollpage.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js/useradd.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js/userlist.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js/usermodify.js" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
